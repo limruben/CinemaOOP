@@ -1,0 +1,6 @@
+# showtimeId,movieId,auditorium,dateTime
+1,1,Auditorium A,2026-03-22 14:00
+2,1,Auditorium B,2026-03-22 18:00
+3,2,Auditorium A,2026-03-23 15:00
+4,3,Auditorium C,2026-03-22 20:00
+5,4,Auditorium B,2026-03-23 18:00
