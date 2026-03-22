@@ -1,0 +1,5 @@
+# movieId,title,duration,genre
+1,Avengers Endgame,181,Action
+2,The Dark Knight,152,Action
+3,Inception,148,Sci-Fi
+4,The Shawshank Redemption,142,Drama
